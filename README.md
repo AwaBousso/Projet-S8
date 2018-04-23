@@ -5,3 +5,5 @@ ESIGELEC 2018
 Amaury Reille
 
 Léo Abalan
+
+Awa Bousso
